@@ -78,7 +78,7 @@
     apiKey: "AIzaSyBzqu6pE0S5ME21uf8CxuHKWMI9BhNBqs8",
     authDomain: "fb-quickstart-js.firebaseapp.com",
     databaseURL: "https://fb-quickstart-js.firebaseio.com",
-    // projectId: "fb-quickstart-js",
+    projectId: "fb-quickstart-js",
     storageBucket: "fb-quickstart-js.appspot.com",
     messagingSenderId: "752446434071"
   };
